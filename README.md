@@ -2,9 +2,9 @@
 
 This project provides solutions to some biological problems using Python.
 
-## **Problems solved:**
 
-1. ### **Class CMD:** 
+
+1. ## **Problems solved:**
 
    - Generate random fasta file
 
