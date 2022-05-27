@@ -1,5 +1,4 @@
-# **Bioinformatics Tools**
-
+[**Bioinformatics Tools**](https://github.com/hebamuh68/Bioinformatics-Projects/tree/main/Bioinformatics%20Tools)
 This project provides solutions to some biological problems using Python.
 
 ## **Problems solved:**
