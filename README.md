@@ -25,15 +25,3 @@ This project provides solutions to some biological problems using Python.
    - Streamlit (GUI)
 
 ------
-
-1. ### **Generate random fasta file**
-
-   - **Input:** Number of sequences, Range of sequences length 
-
-   - **Output:** Fasta file
-
-   - **Time complexity:** O(n*m), where n is the number of sequences and m is length sequence
-
-
-
-4. ### **Search for patterns in sequence**
