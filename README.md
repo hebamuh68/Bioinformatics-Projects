@@ -2,9 +2,7 @@
 
 This project provides solutions to some biological problems using Python.
 
-
-
-1. ## **Problems solved:**
+1. ### **Problems solved:** 
 
    - Generate random fasta file
 
@@ -25,3 +23,5 @@ This project provides solutions to some biological problems using Python.
    - Streamlit (GUI)
 
 ------
+
+### 
