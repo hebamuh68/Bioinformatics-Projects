@@ -21,8 +21,7 @@ This project provides solutions to some biological problems using Python.
    - Python
    - ML
    - Streamlit (GUI)
+   
 https://user-images.githubusercontent.com/69214737/170821124-a027d43e-561d-4932-89f9-4e2508f40c11.mp4
 
 ------
-
-### 
